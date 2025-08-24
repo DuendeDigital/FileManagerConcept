@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+ <include domain="sharedpref" path="."/>
+ <exclude domain="sharedpref" path="keepitfiles.xml"/>
+ <exclude domain="sharedpref" path="keepitStatus.xml"/>
+ <exclude domain="sharedpref" path="keepitDate.xml"/>
+ <exclude domain="sharedpref" path="tags.xml"/>
+</full-backup-content>
